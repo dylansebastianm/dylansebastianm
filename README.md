@@ -10,7 +10,7 @@
 - 🌱 Estoy en constante aprendizaje de mis aptitudes.  
   
 
-- ❓ Me apasiona el frontend y las aplicaciones responsive.  
+- ❓ Me apasiona el frontend, las aplicaciones responsive y mi framework favorito es React.  
   
 
 <br/>  
